@@ -25,6 +25,7 @@ Hobbies:
 </ol>
     
 Legajo: 2046660
+
 Acá un poco de spam que nunca está mal: 
 [![Instagram: rada_ruben](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rada_ruben/) 
 ---
