@@ -5,7 +5,7 @@
 ## <p align='center'> Hola, esta es mi "carta" de presentación. Creada para el curso de PdeP. </p> ##
 
 
-### Tengo 2️⃣2️⃣ años, curso Sistemas desde 2021. Apasionado por la física y el código. 
+### Soy Rubén Rada, tengo 2️⃣2️⃣ años, curso Sistemas desde 2021. Apasionado por la física y el código. 
 
  Conocimientos de: HTML, CSS, JAVASCRIPT, REACT <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"/>
 
